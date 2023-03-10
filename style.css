@@ -1,0 +1,175 @@
+body{
+    background-color: rgb(84, 86, 206)  ;
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+.header{
+
+    display:flex;
+    height: 250px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    width: 100%;
+    background-color: rgba(64, 66, 190, 0.781);
+}
+
+.header h1{
+    font-size:70px;
+    padding: 50px;
+    color: rgb(211, 177, 105);
+}
+
+.header p{
+    font-size:15px;
+    color: rgb(211, 177, 105);
+    float: right;
+    padding-top: 150px;
+    text-align: justify;
+    margin: 5px;
+    font-family: monospace;
+}
+
+.banner{
+    background-color:rgba(71, 74, 240, 0.479);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+    height: 300px;
+    border-radius: 30px;
+    margin: 20px 20px;
+    margin-top: 10PX
+    ;
+}
+
+.banner h1{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(235, 236, 178);
+    margin: 20px;
+}
+
+.banner p{
+    text-align: justify;
+    color:rgb(245, 242, 242);
+    margin:50px; 
+    font-family:'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+img{
+    float:none;
+    padding: 0px;
+    width: 100%;
+    height: 50px;
+    background-size: cover;
+}
+
+hr{
+    border: 5px rgb(96, 152, 189) solid;
+    margin: 10px;
+}
+
+.per{
+    margin: 5px;
+    height: 50PX;
+    padding: 30px;
+}
+
+.per h1{
+    margin: 5px;
+    font-family: tahoma;
+    padding-left: 500px;
+}
+
+.per h1 a{
+    color: rgb(243, 145, 161);
+}
+
+.per h1 a:hover{
+    color: rgb(175, 108, 120);
+}
+
+.educ{
+    margin: 5px;
+    height: 50PX;
+    padding: 30px;
+}
+
+.educ h1 {
+    margin: 5px;
+    padding-left: 350px;
+    font-family: tahoma
+}
+
+.educ h1 a{
+    color: rgb(243, 145, 161);
+}
+
+.educ h1 a:hover{
+    color: rgb(175, 108, 120);
+}
+
+.fam{
+    margin: 5px;
+    height: 50PX;
+    padding: 30px;
+}
+
+.fam h1 {
+    margin: 5px;
+   padding-left: 500px;
+    font-family: tahoma
+}
+
+.fam h1 a{
+    color: rgb(243, 145, 161);
+}
+
+.fam h1 a:hover{
+    color: rgb(175, 108, 120);
+}
+
+.fr{
+    margin: 5px;
+    height: 50PX;
+    padding: 30px;
+}
+
+.fr h1 {
+    margin: 5px;
+    padding-left: 500px;
+    font-family: tahoma
+}
+
+.fr h1 a{
+    color: rgb(243, 145, 161);
+}
+
+.fr h1 a:hover{
+    color: rgb(175, 108, 120);
+}
+
+.fav{
+    margin: 5px;
+    height: 50PX;
+    padding: 30px;
+}
+
+.fav h1 {
+    margin: 5px;
+    padding-left: 500px;
+    font-family: tahoma
+}
+
+.fav h1 a{
+    color: rgb(243, 145, 161);
+}
+
+.fav h1 a:hover{
+    color: rgb(175, 108, 120);
+}

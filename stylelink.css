@@ -1,0 +1,295 @@
+body{
+    background-color: rgb(226, 166, 176);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.intro{
+    height: 80px;
+    background-color:rgba(199, 120, 133, 0.74) ;
+    margin: 30px;
+    border-radius: 50px;
+}
+
+.intro h1{
+    font-size: 50px;
+    color: rgb(87, 65, 146);
+    padding: 10px;
+    text-align: center;
+}
+
+.para{
+    height: 250px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.para p{
+    font-size: 15px;
+    color: white;
+    text-align: justify;
+    padding: 20px;
+}
+
+p{
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    padding: 20px;
+}
+
+a{
+    font-family:tahoma;
+    font-size: 30px;
+    color: rgb(255, 232, 205);
+    padding: 550px;
+margin: 5px;
+}
+
+.par{
+    height: 400px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.par p{
+    font-size: 15px;
+    color: white;
+    text-align: justify;
+  margin: 10px;
+}
+
+.parag{
+    height: 400px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.parag p{
+    font-size: 15px;
+    color: white;
+    text-align: justify;
+  margin: 10px;
+}
+
+.pa{
+    height: 300px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.pa p{
+    font-size: 15px;
+    color: white;
+    text-align: justify;
+  margin: 10px;
+}
+
+.fat{
+    height: 200px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.fat h3{
+    font-size: 40px;
+    color:rgb(236, 228, 108);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.fat h5{
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: tahoma;
+    padding: 10px;
+}
+
+.mot{
+    height: 200px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.mot h3{
+    font-size: 40px;
+    color:rgb(236, 228, 108);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.mot h5{
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: tahoma;
+    padding: 10px;
+}
+
+.bro{
+    height: 200px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.bro h3{
+    font-size: 40px;
+    color:rgb(236, 228, 108);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.bro h5{
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: tahoma;
+    padding: 10px;
+}
+
+.cous{
+    height: 350px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.cous h3{
+    font-size: 30px;
+    color:rgb(236, 228, 108);
+    text-align: center;
+}
+
+.cous h5{
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+}
+
+.dish{
+    height: 350px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.dish h3{
+    font-size: 40px;
+    color:rgb(236, 206, 108);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.dish h5{
+    font-size: 25px;
+    color:rgb(134, 196, 255);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.dish p{
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: tahoma;
+    padding: 10px;
+}
+
+.sweets{
+    height: 200px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.sweets h3{
+    font-size: 40px;
+    color:rgb(236, 206, 108);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.sweets h5{
+    font-size: 25px;
+    color:rgb(134, 196, 255);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.sweets p{
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: tahoma;
+    padding: 10px;
+}
+
+.des{
+    height: 300px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.des h3{
+    font-size: 40px;
+    color:rgb(236, 206, 108);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.des h5{
+    font-size: 25px;
+    color:rgb(134, 196, 255);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.des p{
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: tahoma;
+    padding: 10px;
+}
+
+.dri{
+    height: 300px;
+    margin: 10px;
+    background-color: rgba(156, 88, 100, 0.74);
+    border-radius: 30px;
+}
+
+.dri h3{
+    font-size: 40px;
+    color:rgb(236, 206, 108);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.dri h5{
+    font-size: 25px;
+    color:rgb(134, 196, 255);
+    font-family: tahoma;
+    text-align: center;
+}
+
+.dri p{
+    font-size: 15px;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-family: tahoma;
+    padding: 10px;
+}
